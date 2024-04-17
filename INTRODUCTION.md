@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Power BI development and data structuring using SQL](https://www.defensoria.sp.def.br/institucional/corregedoria-geral/estatisticas-anuais)
 
-- 🌱 I’m currently learning **data science, python, statistic, databricks**
+- 🌱 I’m currently learning **data science, python, statistic, databricks, MS PL-300**
 
 - 📝 I regularly write articles on [https://medium.com/@gleydiaz](https://medium.com/@gleydiaz)
 
