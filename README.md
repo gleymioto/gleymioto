@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gley Mioto, and This Git is under construction </h1>
+<h1 align="center">Hi 👋, I'm Gley Mioto, and my Git is under construction </h1>
 <h3 align="center">A passionate data analysis, data science and power bi developer´s from Brasil</h3>
 
 - 🔭 I’m currently working on [Power BI development and data structuring using SQL](https://www.defensoria.sp.def.br/institucional/corregedoria-geral/estatisticas-anuais)
