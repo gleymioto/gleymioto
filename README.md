@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data science, python, statistic, databricks**
 
-- 📝 I regularly write articles on [https://medium.com/@gleydiaz](https://medium.com/@gleydiaz)
+- 📝 I regularly write articles on [https://medium.com/@gleydiaz](https://medium.com/@gleydiaz) (in construction)
 
 - 💬 Ask me about **SQL, Power BI Desktop, PBI Service, Python**
 
